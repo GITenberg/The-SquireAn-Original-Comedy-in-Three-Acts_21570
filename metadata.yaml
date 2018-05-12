@@ -1,0 +1,32 @@
+_repo: The-SquireAn-Original-Comedy-in-Three-Acts_21570
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinero, Arthur Wing
+    aliases:
+    - Pinero, Arthur W. (Arthur Wing)
+    - Pinero, A. W. (Arthur Wing)
+    - Pinero, Sir Arthur Wing
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '6013'
+    url: http://www.gutenberg.org/2009/agents/6013
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
+description: ''
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'The Squire: An Original Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/21570
