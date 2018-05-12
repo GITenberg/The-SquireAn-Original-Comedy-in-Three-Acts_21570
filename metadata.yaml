@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6013
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21570#The-SquireAn-Original-Comedy-in-Three-Acts
 gutenberg_issued: '2007-05-22'
 gutenberg_type: Text
 identifiers:
